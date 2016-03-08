@@ -8,7 +8,6 @@ helloworld.push("obj2");
 console.log(helloworld);
 
 console.log("hahahaha");
-console.log("hahahaha");
-console.log("hahahaha");
-console.log("hahahaha");
-console.log("hahahaha");
+console.log("testing1");
+console.log("testing2");
+console.log("testing3");
